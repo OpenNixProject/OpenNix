@@ -20,8 +20,8 @@
 ## 💸 Donate (Optional)
 We don't require funding, but donations are appreciated:
 
-- **Monero (XMR):** `your_monero_address`
-- **Litecoin (LTC):** `your_litecoin_address`
+- **Monero (XMR):** `coming soon`
+- **Litecoin (LTC):** `coming soon`
 
 ## 🌐 Website
 Visit [https://veddevv.github.io/opennixproject](https://veddevv.github.io/opennixproject) to learn more.
