@@ -1,6 +1,6 @@
 # Support OpenNixProject
 
-We run 100% for free with no ads, sponsors, or budget.
+We run 100% for free with no ads, sponsors, or budget, relying entirely on volunteer contributions and community-driven maintenance.
 
 But if you'd like to help out:
 
