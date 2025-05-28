@@ -24,7 +24,7 @@ We don't require funding, but donations are appreciated:
 - **Litecoin (LTC):** `coming soon`
 
 ## 🌐 Website
-Visit [https://veddevv.github.io/opennixproject](https://veddevv.github.io/opennixproject) to learn more.
+Visit [https://opennixproject.github.io/OpenNix](https://opennixproject.github.io/OpenNix/) to learn more.
 
 ---
 
