@@ -21,7 +21,7 @@
 We don't require funding, but donations are appreciated:
 
 - **Monero (XMR):** `coming_soon`
-- **Litecoin (LTC):** `coming_soon`
+- **Litecoin (LTC):** `ltc1qmk7lta6et3wcpurskc733f7hl3l8w0j0zv64uq`
 
 ## 🌐 Website
 Visit [https://opennixproject.github.io/OpenNix](https://opennixproject.github.io/OpenNix/) to learn more.
