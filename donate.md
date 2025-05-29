@@ -5,6 +5,6 @@ We run 100% for free with no ads, sponsors, or budget, relying entirely on volun
 But if you'd like to help out:
 
 - **Monero (XMR):** `coming_soon`
-- **Litecoin (LTC):** `coming_soon`
+- **Litecoin (LTC):** `ltc1qmk7lta6et3wcpurskc733f7hl3l8w0j0zv64uq`
 
 Your support means a lot ❤️
